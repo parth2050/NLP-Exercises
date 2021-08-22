@@ -207,7 +207,6 @@ X_train_targetSentiment[gs_clf_LinearSVC_pipe.predict(new_text)]
 predictedGS_clf_LinearSVC_pipe = gs_clf_LinearSVC_pipe.predict(X_test)
 np.mean(predictedGS_clf_LinearSVC_pipe == X_test_targetSentiment)
 
-
 for performance_analysis in (gs_clf_LinearSVC_pipe.best_score_, 
                              gs_clf_LinearSVC_pipe.best_estimator_, 
                              gs_clf_LinearSVC_pipe.best_params_):
