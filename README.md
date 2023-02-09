@@ -1,5 +1,4 @@
-# NLP-based Assigment tasks.
-I have performed some practicals during college practicals sessions and listed those practicals here.  
+# NLP-based Exercises tasks. 
 
 Direct Link to Datasets: 
 1. AmazonReview.py File | https://www.kaggle.com/bittlingmayer/amazonreviews
